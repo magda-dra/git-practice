@@ -1,0 +1,3 @@
+Name: Magdalena
+Age: 30
+Favorite Color: Blue
